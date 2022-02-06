@@ -9,7 +9,7 @@ public class Main {
         Scanner in = new Scanner(System.in);
         int c,t,n,r;
         int [] a;
-        System.out.print("Choice = ");
+        System.out.print("1 - Seconds into h:m:s \n2 - Sum of digits of a number \nChoice = ");
         c= in.nextInt();
         if (c==1)
         {
